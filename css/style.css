@@ -69,7 +69,7 @@ h3 {
 	font-size: 12px;
 	font-weight: lighter;
 	line-height: 20px;
-	color: #999;
+	color: #ACB4FF;
 }
 
 /* images discription */
@@ -123,7 +123,7 @@ header {
 }
 
 a, a:hover, a:visited, a:active {
-	color: #FF0000;
+	color: #9966FF;
 	text-decoration: none;
 }
 
